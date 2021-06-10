@@ -1,0 +1,16 @@
+{
+  "name": "dcbuttons",
+  "version": "1.0.0",
+  "description": "Coded by Lucy",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "Lucy",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "discord-buttons": "^3.2.1"
+  }
+}

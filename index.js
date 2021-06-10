@@ -24,7 +24,7 @@ client.user.setPresence({ activity: { name: "", type: "" }, status: "" }) // "na
 
 client.on("message", async message => {
 let args = message.content.split(" ");
-if(args[0] !== "") return; // tırnakların içine işlem başlatma mesajını girin
+if(args[0] !== "") return; // tırnakların içine işlem başlatma mesajını girin örnek: !kur
 else 
 {
   let button_1 = new button.MessageButton()

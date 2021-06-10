@@ -14,7 +14,7 @@
 
 # Gerekli Modüller
 <ul> 
-  <li><b>discord.js</b></li>,
+  <li><b>discord.js</b></li>
   <li><b>discord-buttons</b></li>
 </ul>
 
